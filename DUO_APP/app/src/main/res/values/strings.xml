@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fontys_Students_App</string>
+    <string-array name="sortBy">
+        <item>First Name</item>
+        <item>Last Name</item>
+        <item>Level</item>
+    </string-array>
+
+    <string-array name="subjects">
+        <item>Choose subject</item>
+        <item>C#</item>
+        <item>Kotlin</item>
+        <item>SQL</item>
+    </string-array>
+    <string name="title_activity_no_internet">NoInternet</string>
+</resources>
